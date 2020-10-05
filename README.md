@@ -13,8 +13,8 @@ https://en.m.wikipedia.org/wiki/Denial-of-service_attack#Distributed_DoS
 Type command ```python2 ddos.py``` To run the script
 
 # Sources
-*  Github https://github.com/pembriahmad
-*  Link Repositories https://github.com/pembriahmad/DDOS
+ * Github https://github.com/pembriahmad
+ * Gitlab Project https://gitlab.com/pembriahmad/resources
 
 
 # Screenshot
